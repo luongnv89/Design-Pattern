@@ -1,1 +1,1 @@
-#This is the first commit
+# Design pattern #
